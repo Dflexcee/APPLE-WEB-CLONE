@@ -34,7 +34,7 @@
 
 ### Contact
 * amflexcee - [@amflexcee](https://twitter.com/amflexcee)
-* Project Link [https://rawcdn.githack.com/Dflexcee/APPLE-WEB-CLONE/b2ff369a127347be52fcc4a0563dc955a1cad317/index.html/)
+* Project Link (https://rawcdn.githack.com/Dflexcee/APPLE-WEB-CLONE/b2ff369a127347be52fcc4a0563dc955a1cad317/index.html)
 
 ### Acknowledgements
 
