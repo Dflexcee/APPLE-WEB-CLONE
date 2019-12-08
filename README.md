@@ -5,15 +5,9 @@
 <p align="center">
    <h3 align="center">Apple Page</h3>
 
-  <p align="center">
+
     A simple clone of the Apple Page.
-    <br />    
-    <br />
-    ·
-     <a href="https://rawcdn.githack.com/WCanirinka/Apple-page/7fdbb68d6f2739d76ca982219ab01f428b7280c5/index.html">View Demo</a>
-    ·    
-  </p>
-</p>
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -28,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  I am Wilfried Canirinka. I am part of the Microverse Project and I did this page according to the required specifications.  
+  I am dflexcee. I am part of the Microverse Project and I did this page according to the required specifications.  
 
 
 ### Build With
@@ -39,8 +33,8 @@
 
 
 ### Contact
-* Wilfried - [@WCanirinka](https://twitter.com/WCanirinka)  - [LinkedIn](https://www.linkedin.com/in/wilfried-canirinka-884ab0b6/) - [GitHub](https://github.com/WCanirinka)
-* Project Link [https://github.com/genzaraki/new-york-times-article-page](https://wcanirinka.github.io/Apple-page/)
+* amflexcee - [@amflexcee](https://twitter.com/amflexcee)  - [LinkedIn](https://www.linkedin.com/in/wilfried-canirinka-884ab0b6/) - [GitHub](https://github.com/WCanirinka)
+* Project Link [https://rawcdn.githack.com/Dflexcee/APPLE-WEB-CLONE/b2ff369a127347be52fcc4a0563dc955a1cad317/index.html/)
 
 ### Acknowledgements
 
