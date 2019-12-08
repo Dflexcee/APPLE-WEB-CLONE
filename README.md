@@ -33,7 +33,7 @@
 
 
 ### Contact
-* amflexcee - [@amflexcee](https://twitter.com/amflexcee)  - [LinkedIn](https://www.linkedin.com/in/wilfried-canirinka-884ab0b6/) - [GitHub](https://github.com/WCanirinka)
+* amflexcee - [@amflexcee](https://twitter.com/amflexcee)
 * Project Link [https://rawcdn.githack.com/Dflexcee/APPLE-WEB-CLONE/b2ff369a127347be52fcc4a0563dc955a1cad317/index.html/)
 
 ### Acknowledgements
